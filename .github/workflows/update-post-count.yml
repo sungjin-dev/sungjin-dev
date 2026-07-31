@@ -1,0 +1,30 @@
+name: Update Post Count Badge
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Count Posts & Update README
+        run: |
+          # _posts 폴더(또는 블로그 포스트 폴더) 안의 .md 파일 개수 세기
+          COUNT=$(find . -type f -name "*.md" | grep -v "README" | wc -l | tr -d ' ')
+          echo "Total posts found: $COUNT"
+          
+          # README.md 파일 안의 Post Count 수치 자동 치환
+          sed -i -E "s/Total_Posts-[0-9]+/Total_Posts-${COUNT}/g" README.md
+
+      - name: Commit & Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: auto update post count badge [skip ci]" && git push)
