@@ -6,7 +6,7 @@ on:
       - main
   workflow_dispatch:
 
-# 🔥 필수: GitHub Actions에 저장소 수정(Write) 권한 부여
+# 필수: GitHub Actions에 저장소 수정(Write) 권한 부여
 permissions:
   contents: write
 
