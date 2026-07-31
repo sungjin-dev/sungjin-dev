@@ -1,6 +1,6 @@
 <div align="center">
   <!-- 배너 이미지: 정확한 저장소 이름 반영 -->
-  <img src="https://raw.githubusercontent.com/sungjin-dev/my-obsidian-notes/main/assets/profile-banner.svg" alt="SungJin Park" width="100%" />
+  <img src="https://raw.githubusercontent.com/sungjin-dev/sungjin-dev.github.io/main/assets/profile-banner.svg" alt="SungJin Park" width="100%" />
   <br>
   <h3>🛠 Tech Stack</h3>
   <p>
