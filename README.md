@@ -19,10 +19,10 @@
   <h3>📊 GitHub Stats</h3>
   <p>
     <a href="https://github.com/sungjin-dev">
-      <img src="https://github-readme-stats.vercel.app/api?username=sungjin-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=sungjin-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/sungjin-dev">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungjin-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sungjin-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
     </a>
   </p>
 
