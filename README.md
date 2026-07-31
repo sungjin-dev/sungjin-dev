@@ -24,7 +24,7 @@
   <br>
 <h3>📚 Study Log Statistics</h3>
   <p>
-    <img src="https://img.shields.io/badge/Total_Posts-37-61AFEF?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Total_Posts-0-61AFEF?style=for-the-badge&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/Main_Topics-Flask%20%7C%20정처기%20%7C%20Python-98C379?style=for-the-badge"/>
   </p>
   <p>
