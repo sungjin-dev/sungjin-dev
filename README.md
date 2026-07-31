@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" alt="SungJin Park" width="100%" />
+  <img src="https://raw.githubusercontent.com/sungjin-dev/sungjin-dev/main/assets/profile-banner.svg" alt="SungJin Park" width="100%" />
   <br>
   <h3>🛠 Tech Stack</h3>
   <p>
