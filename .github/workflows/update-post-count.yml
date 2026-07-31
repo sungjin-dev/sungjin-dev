@@ -22,7 +22,6 @@ jobs:
         with:
           repository: sungjin-dev/sungjin-dev.github.io
           path: blog
-          token: ''   # public 레포를 완전 익명으로 클론 (다른 레포 토큰 충돌 방지)
 
       - name: Debug - blog checkout 상태 확인
         run: |
