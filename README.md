@@ -1,4 +1,5 @@
 <div align="center">
+  <!-- 배너: Raw 절대 경로 적용 -->
   <img src="https://raw.githubusercontent.com/sungjin-dev/sungjin-dev/main/assets/profile-banner.svg" alt="SungJin Park" width="100%" />
   <br>
   <h3>🛠 Tech Stack</h3>
@@ -15,14 +16,14 @@
   <h3>📊 GitHub Stats</h3>
   <p>
     <a href="https://github.com/sungjin-dev">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=sungjin-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=sungjin-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/sungjin-dev">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sungjin-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungjin-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
     </a>
   </p>
   <br>
-<h3>📚 Study Log Statistics</h3>
+  <h3>📚 Study Log Statistics</h3>
   <p>
     <img src="https://img.shields.io/badge/Total_Posts-0-61AFEF?style=for-the-badge&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/Main_Topics-Flask%20%7C%20정처기%20%7C%20Python-98C379?style=for-the-badge"/>
