@@ -27,7 +27,7 @@
 <h3>📚 Study Log Statistics</h3>
   <p>
     <a href="https://sungjin-dev.github.io/year-archive/">
-      <img src="https://img.shields.io/badge/Total_Posts-77-61AFEF?style=for-the-badge&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Total_Posts-78-61AFEF?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
   </p>
   <p>
